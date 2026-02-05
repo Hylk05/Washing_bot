@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deep-chimera-369808",
+  "private_key_id": "38c03cd3e15ac7619af0dd3d838a7f8860eedf7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoiMV9Kw0QONSz\n5Jy9pewdFV/sgZaeWCbAbEmYtopEsGE3TxumnQBWBL4AAAu0g54APKx2+zZ95dH2\ngE4c2DjRXLLts+Y+yhs5KJr3qBfXKNsb2SFuHplSZ9sipyRYWS0Gc/pomJw4LA6+\neG4eFzTbDmBLu9y8jZ7jMXQFGdJ/sOqwHb4aD09pjl0WiESMYmV1qVU4dBcrIwoe\n+fS5b8bdgRv1O+Tccl4/lJAwDaFL8vEh+fW+EMV2SE0j5IEMJdzx16VkpQWeBi5V\n//1zzWwT/RChyxEcVuPSMVJSX8HNE3911kjDMaIXPLH2KWwvB9NCRlYdrKiNI5/T\nuo71+VdjAgMBAAECggEAFukk7muZpoYQmvXt6DVz9Xja5e6wmDeuk5kE9j7WaW5l\ngNx/C0rWPrCoAvL+pFxXcHvPDDZWsDhmWca+bQW9z5mfn1hwk+zrVNK0ImJWVK2y\nqkSoWpfL9bEK+q59w97iPo7UpenHzuEPuLfsFv4boC3XoblY/BmagGh6zQNiI3Ej\nxvO/zmK2V1hBJRPAPWgOPcovdZa0V/140/JsmhTXXPoC+CuhubM5TRsGYpbrFRqA\nXcAfZcIP/2/86ge5Y/XYfPV3feKAqqRFAi0dQvVIF9xWhSXhxSCyVhhWF8YkwuU6\n0HP6daVnp7Cbf/HvB1+ETHWReP8g9xopZ1kZRxvstQKBgQDcMZfssNo1pPYTwjdf\n3bmRC7v/+6f+zMLsJhoQT8ajhOFcGVtDruvrdywuznBW89O/OEoRZYfh5DuN+BxM\nTloFYFMOGPWRdyvZjlo1KgoRDiM8gAe/yY4Pyp0IYqtJNPvyv1mB99KzR3EBJYvi\ndSxC8nNj9q8pkSf0PoUPEHPFXQKBgQDD8Ke7SohqGmD6S5kbtEc1tBfBywwWuGzI\n3PE2gcQHwvWefjNDZyr/BEMFZifC9hPXSC0ERLk1SVer2y2OASNjSSWQE/byxoqm\nqQXQj8OGyAVoaWB2xNUc/gtF1DV5Lppxg+WUEKEpckgMRTZM98AX64GcNxyz5thi\nWRiwj90DvwKBgQCPAvLeepqu/r4IZTrb28E7UHjBMGyTE+CBydlhwL6N068exyU8\nV27I1vTuTYwvHVvotSF+HQhdEYQQmBWhBb54AXDQFivgV5s2SLuUDgLNwvXlxG3E\nBZ9r6DeHi7Yd7Pi6V8dFn3TMldjyWrV41otxy9BgG4b2o11kx/pZp2DZzQKBgQC/\nEFJe/aTb4fEi4MjiDP9LTNvFq1uUZC4gB+Jmxk8DSob8EA+o8Fcq6Vr5Ts4C/LYI\nPWc4PFNltKj6+fUH/fAmBtPMFMu/nP7i2PrEjwuYyD8Nu4PHDNTLOqZ/ZxjlnB4a\nBwW9RiIBKmE7Jdp3Xzc/m/R9AfjJLJdf/4Vl1kMsPQKBgD3GK555Yz/f6ZZz+rz6\n9FRPzjYJ5VBo0u59vct7T66DXrvlHq1qcINI8LicXqdUbWngKmw21Sl8WesXjPXL\n/QzFs84LReA+h848rBmYJNmaOz0PR5jsFAI6LUh0QJBu7qVsy20C4ZwfHQL4+cdJ\nqvf39InmVDoM8Q+9XOh43s6G\n-----END PRIVATE KEY-----\n",
+  "client_email": "washing-machines@deep-chimera-369808.iam.gserviceaccount.com",
+  "client_id": "106292511791182159390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/washing-machines%40deep-chimera-369808.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
