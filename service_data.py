@@ -1,5 +1,5 @@
 BOT_TOKEN = "5582509664:AAFBNVBKBTWw1UaEB7y1FeNc_WefgPTIJuM"
-SERVICE_ACCOUNT_FILENAME = "deep-chimera-369808-38c03cd3e15a.json"
+SERVICE_ACCOUNT_FILENAME = "deep-chimera-369808-c3c03db23992.json"
 
 months = {"01": "января", "02": "февраля", "03": "марта",
           "04": "апреля", "05": "мая", "06": "июня",
